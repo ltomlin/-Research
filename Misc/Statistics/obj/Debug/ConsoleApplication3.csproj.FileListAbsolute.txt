@@ -1,0 +1,8 @@
+C:\Dev\project\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Dev\project\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Dev\project\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Dev\project\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Dev\project\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Dev\project\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Dev\project\ConsoleApplication3\bin\Debug\MathNet.Numerics.dll
+C:\Dev\project\ConsoleApplication3\bin\Debug\MathNet.Numerics.xml

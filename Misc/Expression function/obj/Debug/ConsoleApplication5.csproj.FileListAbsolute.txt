@@ -1,0 +1,6 @@
+C:\Dev\project\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Dev\project\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Dev\project\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Dev\project\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+C:\Dev\project\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Dev\project\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
